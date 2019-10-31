@@ -3,7 +3,7 @@
 #include <string.h>
 #include <math.h>
 
-int main(){
+int main(void){
     int n,m,i,j,tam=0,tamtexto, k,l,tamt;
     char ssub[1000][1000],ssubt[1000][1000],texto[1000],aux[100];
 
